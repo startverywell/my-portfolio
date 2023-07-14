@@ -24,7 +24,7 @@ const Content = () => (
                 <h1 data-aos="fade-up" data-aos-delay="800">
                     <FormattedMessage
                         id='name'
-                        defaultMessage='I am Nahuel Carrizo'
+                        defaultMessage='I am startverywell'
                     />
                 </h1>
                 <p data-aos="fade-up" data-aos-delay="1000">
@@ -35,35 +35,35 @@ const Content = () => (
                 </p>
 
                 <div className="redes-sociales">
-                    <a href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200"><i className="fab fa-linkedin"></i></a>
-                    <a href="https://github.com/Nahuel61920/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400"><i className="fab fa-github"></i></a>
+                    <a href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200"><i className="fab fa-skype"></i></a>
+                    <a href="https://github.com/startverywell/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400"><i className="fab fa-github"></i></a>
                     <a href="https://www.instagram.com/nahuelcarrizolc/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600"><i className="fab fa-instagram"></i></a>
                     <a href="https://api.whatsapp.com/send?phone=5493815360966" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800"><i className="fab fa-whatsapp"></i></a>
                 </div>
                 <div className="wrapper">
-                    <a className="button" href="https://www.linkedin.com/in/esteban-nahuel-carrizo-69715422b/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200">
+                    <a className="button" href="skype:live:.cid.60653e81c9b17a00?chat" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200">
                         <div className="icon">
-                            <i className="fab fa-linkedin"></i>
+                            <i className="fab fa-skype"></i>
                         </div>
-                        <span>Linkedin</span>
+                        <span>Skype</span>
                     </a>
-                    <a className="button" href="https://github.com/Nahuel61920/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400">
+                    <a className="button" href="https://github.com/startverywell/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400">
                         <div className="icon">
                             <i className="fab fa-github"></i>
                         </div>
                         <span>Github</span>
                     </a>
-                    <a className="button" href="https://www.instagram.com/nahuelcarrizolc/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600">
+                    <a className="button" href="mailto:startverywell@gmail.com" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600">
                         <div className="icon">
-                            <i className="fab fa-instagram"></i>
+                            <i className="fab fa-google"></i>
                         </div>
-                        <span>Instagram</span>
+                        <span>Gmail</span>
                     </a>
-                    <a className="button" href="https://api.whatsapp.com/send?phone=5493815360966" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800">
+                    <a className="button" href="https://t.me/startverywell" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800">
                         <div className="icon">
-                            <i className="fab fa-whatsapp"></i>
+                            <i className="fab fa-telegram"></i>
                         </div>
-                        <span>Whatsapp</span>
+                        <span>Telegram</span>
                     </a>
                 </div>
 
