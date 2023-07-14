@@ -73,29 +73,28 @@ const Project = () => {
                                 <span> -</span> MongoDB
                             </p>
                             <a href="https://coin-plus.vercel.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/CoinPlus" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://github.com/startverywell/coin" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
                         <img
-                            src={proyectImg(`./proyecto-14.jpg`)}
+                            src={proyectImg(`./project1.png`)}
                             alt='proyectos'
 
                         />
                         <div className="content">
-                            <h3>Justice</h3>
+                            <h3>Roomies</h3>
                             <p>
-                                lawyers website
+                                Roomies website
                             </p>
                             <p className="tecnologias">
                                 HTML5
                                 <span> -</span> CSS
-                                <span> -</span> JavaScript
-                                <span> -</span> jQuery
+                                <span> -</span> Laravel
+                                <span> -</span> React
                                 <span> -</span> Bootstrap
                             </p>
-                            <a href="https://nahuel61920.github.io/Justice/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/Justice" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            <a href="https://www.roomies.com" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
