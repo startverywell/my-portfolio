@@ -1,6 +1,6 @@
 {
   "name": "portafolio-startverywell",
-  "homepage": "http://startverywell-github.io/my-portfolio",
+  "homepage": "http://startverywell.github.io/my-portfolio",
   "version": "1.5.0",
   "private": true,
   "dependencies": {
