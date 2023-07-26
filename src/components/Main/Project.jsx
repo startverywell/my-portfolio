@@ -118,7 +118,7 @@ const Project = () => {
                                 <span> -</span> PostgreSQL
                             </p>
                             <a href="https://pi-dogs-main-ashy.vercel.app/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/PI-DOGS-MAIN" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            {/* <a href="https://github.com/Nahuel61920/PI-DOGS-MAIN" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a> */}
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -137,7 +137,7 @@ const Project = () => {
                                 <span> -</span> JavaScript
                             </p>
                             <a href="https://nahuel61920.github.io/Power-Engine/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/Power-Engine" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            {/* <a href="https://github.com/Nahuel61920/Power-Engine" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a> */}
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -157,7 +157,7 @@ const Project = () => {
                                 <span> -</span> Bootstrap
                             </p>
                             <a href="https://nahuel61920.github.io/Spider-Man/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/Spider-Man" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            {/* <a href="https://github.com/Nahuel61920/Spider-Man" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a> */}
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -177,7 +177,7 @@ const Project = () => {
                                 <span> -</span> Bootstrap
                             </p>
                             <a href="https://nahuel61920.github.io/EveryRunning/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/EveryRunning" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            {/* <a href="https://github.com/Nahuel61920/EveryRunning" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a> */}
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -197,7 +197,7 @@ const Project = () => {
                                 <span> -</span> Sass
                             </p>
                             <a href="https://nahuel61920.github.io/PremierFood/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/PremierFood" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            {/* <a href="https://github.com/Nahuel61920/PremierFood" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a> */}
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -217,7 +217,7 @@ const Project = () => {
                                 <span> -</span> JavaScript
                             </p>
                             <a href="https://nahuel61920.github.io/shop-tec/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/shop-tec" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            {/* <a href="https://github.com/Nahuel61920/shop-tec" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a> */}
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -236,7 +236,7 @@ const Project = () => {
                                 <span> -</span> JavaScript
                             </p>
                             <a href="https://nahuel61920.github.io/ElegantHand/ " className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/ElegantHand" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            {/* <a href="https://github.com/Nahuel61920/ElegantHand" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a> */}
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -255,7 +255,7 @@ const Project = () => {
                                 <span> -</span> JavaScript
                             </p>
                             <a href="https://nahuel61920.github.io/vida-en-papel/ " className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/vida-en-papel" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            {/* <a href="https://github.com/Nahuel61920/vida-en-papel" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a> */}
                         </div>
                     </SwiperSlide>
                     <SwiperSlide className='caja'>
@@ -274,7 +274,7 @@ const Project = () => {
                                 <span> -</span> JavaScript
                             </p>
                             <a href="https://nahuel61920.github.io/PlusAnime/" className="custom-btn btn" target="_blank" rel="noopener noreferrer"><span>Demo</span></a>
-                            <a href="https://github.com/Nahuel61920/PlusAnime" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a>
+                            {/* <a href="https://github.com/Nahuel61920/PlusAnime" className="custom-btn btn-codigo" target="_blank" rel="noopener noreferrer">Repository</a> */}
                         </div>
                     </SwiperSlide>
                 </Swiper>
