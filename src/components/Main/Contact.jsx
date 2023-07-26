@@ -60,7 +60,7 @@ const Contact = () => (
                     telegram
                 </div>
             </a>
-            <a href="https://skype:live:.cid.60653e81c9b17a00?chat" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
+            <a href="https://join.skype.com/invite/yAflI3KbnlaZ" target="_blank" rel="noopener noreferrer" data-aos="zoom-in">
                 <div className="layer">
                     <span></span>
                     <span></span>
